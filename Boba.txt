@@ -1,0 +1,17 @@
+TEA@
+Milk Green Tea@2.50@M
+Coffee Milk Tea@2.50@M
+Taro Milk Tea@2.50@M
+Thai Milk Tea@2.50@M
+Honey Green Tea@2.5@M
+Milk Green Tea@5.00@L
+Coffee Milk Tea@5.00@L
+Taro Milk Tea@5.00@L
+Thai Milk Tea@5.00@L
+Honey Green Tea@5.00@L
+Toppings@
+Herbal Jelly@0.50
+Pudding@0.50
+Oreo@0.50
+Aloe Jelly@0.50
+Bubbles@0.50

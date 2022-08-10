@@ -1,0 +1,26 @@
+Combo Meal
+Bid Mac Meal@11.10@M
+10 Piece McNuggets Meal@11.10@M
+Bacon Quarter Pounder with Cheese Meal@12.60@M
+Triple Cheeseburger Meal@10.20@M
+Filet O Fish Meal@9.00@M
+Bid Mac Meal@12.30@L
+10 Piece McNuggets Meal@12.30@L
+Bacon Quarter Pounder with Cheese Meal@13.80@L
+Triple Cheeseburger Meal@11.40@L
+Filet O Fish Meal@10.20@L
+
+Indivudual Items
+Big Mac@6.30
+10 Piece McNuggets@6.30
+Bacon Quarter Pounder with Cheese@7.80
+Triple Cheeseburger@5.40
+Filet O Fish@4.20
+French Fries@2.80
+
+Beverages
+Coke@1.20
+Sprite@1.20
+Fanta Orange@1.20
+Dr Pepper@1.20
+Root Beer@1.20

@@ -1,0 +1,37 @@
+Pizza
+Pepperoni Pizza@15.74@M
+Sausage Pizza@15.74@M
+Cheese Pizza@15.74@M
+Meatball Pepperoni Pizza@19.99@M
+Hawaiian Pizza@19.99@M
+Pepperoni Pizza@17.99@L
+Sausage Pizza@17.99@L
+Cheese Pizza@17.99@L
+Meatball Pepperoni Pizza@22.99@L
+Hawaiian Pizza@22.99@L
+
+Toppings
+Parmesan Romano@0.50
+3-Cheese Blend@0.50
+Black Olives@0.50
+Philly Steak@0.50
+Salami@0.50
+
+Sides
+Jalapeno Popper Rolls@5.99
+Chicken Poppers@7.99
+Garlic Parmesan Breadsticks@7.99
+Buffalo Wings@9.49
+Salad@5.99
+
+Desserts
+Cinnamon Pull aparts@8.99
+Chocolate Chip Cookie@7.99
+Double Chocolate Chip Brownie@8.99
+
+Drinks
+Pepsi@3.29
+Mountain Dew@3.29
+Crush Orange@3.29
+Dr. Pepper@3.29
+Mug Root Beer@3.29
